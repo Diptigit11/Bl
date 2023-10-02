@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    font-weight: bolder;
+}
+.css{
+    text-align: center;
+    color: white;
+}
+h1{
+    color: goldenrod;
+}
+#start_el,#new_el{
+    background-color: goldenrod;
+    color: black;
+    border-radius: 3px;
+    width:150px;
+    border:none;
+}
